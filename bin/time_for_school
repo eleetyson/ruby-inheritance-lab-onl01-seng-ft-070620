@@ -33,3 +33,5 @@ connor = Student.new
 connor.first_name = "Connor"
 connor.last_name = "Kadeer"
 connor.learn(new_thing)
+puts "#{steve.knowledge}"
+puts "#{connor.knowledge}"
