@@ -29,4 +29,7 @@ new_thing = avi.teach # get something random from the KNOWLEDGE array
 steve.learn(new_thing) # teach this young bull that thing
 
 # have avi teach a new student
-connor - 
+connor = Student.new
+connor.first_name = "Connor"
+connor.last_name = "Kadeer"
+connor.learn(new_thing)
